@@ -1,3 +1,9 @@
 angular.module('tutorialCntlModule',[])
-.controller()
+.controller("TutorialController",["scope", function(scope){
+
+
+
+
+
+}])
 .service();
